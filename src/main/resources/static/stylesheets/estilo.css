@@ -1,0 +1,39 @@
+.painel-tabela-contato {
+	
+	margin-top: 20px;
+
+}
+.tabela-cadastro-contatos--acoes, .tabela-cadastro-contatos--codigo {
+	text-align: center;
+	width: 100px;
+}
+
+.tabela-cadastro-contatos--nome {
+	
+	
+}
+
+.tabela-cadastro-contatos--email {
+	
+	width: 350px;
+}
+.error-page{
+	background-color: #ccc;
+}
+.error-page h1 {
+	
+	font-size: 10rem;
+	text-align: center;
+}
+
+.error-page h2 {
+	
+	font-size: 5rem;
+	text-align: center;
+}
+
+.error-page p {
+	
+	font-size: 2rem;
+	text-align: center;
+}
